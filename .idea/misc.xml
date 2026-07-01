@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/week-2/Spring Core and Maven/Ex-2 Implementing Dependency Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/week-2/Spring Core and Maven/Ex-1 Configuring a Basic Spring Application/pom.xml" />
+        <option value="$PROJECT_DIR$/week-2/Spring Core and Maven/Ex-4 Creating and confugiring a Maven Project/pom.xml" />
+        <option value="$PROJECT_DIR$/week-2/Spring Core and Maven/Ex-9 Creating a Spring Boot Application/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
