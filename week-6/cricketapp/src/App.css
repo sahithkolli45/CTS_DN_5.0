@@ -1,0 +1,29 @@
+.App {
+  width: 700px;
+  margin: 30px auto;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: green;
+}
+
+.player {
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+li {
+  margin: 8px 0;
+}
+
+hr {
+  margin: 25px 0;
+}
